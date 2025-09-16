@@ -1,1 +1,3 @@
-# add your dependencies here
+pandas
+numpy
+matplotlib
